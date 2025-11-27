@@ -13,4 +13,4 @@ A lightweight project demonstrating **YOLOv5** for detecting human faces using a
 ## Try it yourself
 - Head to the Google Colab notebook and just run the cells
 
-  
+  ![yolov5 example2](example2.jpg)
